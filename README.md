@@ -7,7 +7,7 @@
 
  ## What to NOT use this for:
 
-- Used for works requiring high CPS, this is NOT the fastest auto-clicker out there
+- Works that requires high CPS, this is NOT the fastest auto-clicker out there
 - Committing crimes
 ## Send me an email
 
